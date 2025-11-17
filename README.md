@@ -17,7 +17,7 @@ A bilingual (English/Japanese) weather-based activity advisor application built 
 - FastAPI
 - Groq API (for AI suggestions)
 - Deepgram API (for speech-to-text)
-- WeatherAPI.com
+- Open Wather Map API (for weather)
 
 ### Frontend
 - React
